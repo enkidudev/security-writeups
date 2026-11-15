@@ -359,13 +359,13 @@ After all the preparation, the destroyed notes, the late nights, the networking 
 
 And man, did that feel good.
 
-![HTB Academy passing email confirming CPTS certification](./assets/cpts-passing-email.webp)
+![HTB Academy passing email confirming CPTS certification](https://raw.githubusercontent.com/enkidudev/security-writeups/main/blog/assets/cpts-passing-email.webp)
 
 *The email that made the whole ordeal worth it.*
 
 And here it is, the certification that started this whole adventure simply because I thought it looked cool.
 
-![HTB CPTS certificate awarded to Arman Mishra on November 6, 2026](./assets/cpts-certificate.webp)
+![HTB CPTS certificate awarded to Arman Mishra on November 6, 2026](https://raw.githubusercontent.com/enkidudev/security-writeups/main/blog/assets/cpts-certificate.webp)
 
 *Worth it.*
 
@@ -468,7 +468,7 @@ Trust me. I have experience.
 
 I received some pretty positive feedback on my CPTS report, so I figured I'd share a thing or two.
 
-![CPTS examiner feedback praising the report and suggesting improvements to captions and reproducibility](./assets/cpts-examiner-feedback.webp)
+![CPTS examiner feedback praising the report and suggesting improvements to captions and reproducibility](https://raw.githubusercontent.com/enkidudev/security-writeups/main/blog/assets/cpts-examiner-feedback.webp)
 
 *The examiner's feedback on my submission.*
 
